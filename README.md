@@ -1,16 +1,26 @@
-## Hi there 👋
+# Nguyen Huy Son
 
-<!--
-**sonday205/sonday205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer based in Vietnam.
 
-Here are some ideas to get you started:
+I like building practical applications and improving workflows with simple, maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Web applications and backend services
+- Automation and developer tooling
+- Learning by building real projects
+
+## Current goals
+
+- Build a stronger public project portfolio
+- Improve system design and clean code habits
+- Contribute to useful open-source work
+
+## Selected work
+
+I am currently organizing and polishing projects that I can share publicly. Featured repositories will appear here as they are ready.
+
+## Contact
+
+- GitHub: [sonday205](https://github.com/sonday205)
+- Email: [sonhuy3@gmail.com](mailto:sonhuy3@gmail.com)
